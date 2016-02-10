@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Web Design and Architecture Portfolio by Michelle Boychuk | Projects</title>
+        <meta charset="utf-8" />
+        <meta name="description"
+            content=" Here I store the projects I created during my Web Architecture and Design class. 
+           The projects are written mainly in HTML, CSS, TEI, XML, and XSLT" />
+        <meta name="keywords"
+            content="web design, web architecture, portfolio, xml, TEI, CSS, HTML5" />
+        <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet"
+            type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Medula+One" rel="stylesheet"
+            type="text/css" />
+        <link href="reset.css" rel="stylesheet" />
+        <link href="textstyle.css" rel="stylesheet" />
+        <link href="mystyle.css" rel="stylesheet" media="screen" />
+        <link href="mystyleprojects.css" rel="stylesheet" media="screen" />
+        <link href="printstyle.css" rel="stylesheet" media="print" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+    <body>
+        <header><center>
+                <h1>INFO 6620 Portfolio: Michelle Boychuk</h1>
+                <h3><i>Web Design and Architecture 2016</i></h3></center>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Homepage</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+        <div id="A2">
+            <h2>Assignment 2: The Portfolio</h2><p>When creating websites, I tend to favour readability and ease-of use.
+                I attemped to make my website intuitive by giving people multiple ways to access content. Thus, ensuring that users
+                will make the right decision quickly regardless of which route they choose. A user
+                can click on the 'projects' top navigation button or, if they read the bio first, then they will notice the quick links on
+                the bottom right. The projects are the major draw of this site so it should be very
+                easy to find them, though I did not want to go as far as putting them on the front
+                page. </p>
+            <p>I used images for links in an effort to cut down on the amount of text within the
+                site and reduce cognitive load on the user. The ability to see my face while reading
+                my biography helps facilitate compreension by making me seem more real and
+                present.</p>
+            <p>Link colours are chosen so that they are a brighter, more eyecaching colour when
+                unvisited. Once clicked, they fade out to a darker red, so that visited pages will
+                not be as distracting.</p>
+            <p>In terms of readability, I chose a strong title font and made the titles heirarchical
+                through sizing--the major titles are larger and the less important titles are
+                smaller. The content font is a clear serif font that guides the eye to the end of
+                the shortened line easily. My writing does not contain long, drawn out sentences.
+                Nor does it contain words that would be difficult for people to understand.
+                The paragraphs are broken into digestible bites by subject. Line breaks indicate
+                new pargraphs with white space. All textual content is left-justified to match the majority of users' reading
+                styles. </p>
+            <p>The site is responsive in terms of screen sizes and mediums. If one so chooses to
+                print this website all the unceccessary links and ink-heavy images have been
+                removed leaving simply the impotant textual content. If on a smaller screen, such as
+                a tablet or smartphone, the layout squishes and reorganizes so that the structure is
+                vertically oriented. All element sizes are relative, even the images, so they
+                resize with the browser window. </p>
+        </div>
+        <div id="A3"><h2>
+                <a href="assignments/assignment.pdf">Assignment 3: Website Evaluation
+                Report</a></h2>
+            <p>In this project I will choose a website and create a report that evaluates its
+                effectiveness based on its use of the principles of design and the standards of web
+                development and content creation we have discussed in the class.</p></div>
+        <div id="A5"><h2>
+                <a href="assignments/assignment.pdf">Assignment 5: XML Project</a></h2><p>This
+                project will give me experience in planning and carrying out a mark up project
+                beginning with an examination of a scanned and OCR'd copy of a physical document
+                from the Dalhousie Archives and working through the development of a strategy for
+                marking up the document using TEI XML, and finally for transforming and presenting
+                the document.</p>
+        </div>
+        <div id="A4"><h2>
+                <a href="assignments/assignment.pdf">Assignment 4: TEI XML Project</a></h2><p>For
+                this project I will create your own xml document: either a database-type document or
+                a text-type document, each of which have specific requirements.</p>
+        </div>
+        <footer>
+            <p> © 2016 Michelle Boychuk. All rights reserved. Email: <a
+                    href="mailto:michelle.boychuk@gmail.com">michelle.boychuk@gmail.com</a>
+            </p>
+        </footer>
+    </body>
+</html>
