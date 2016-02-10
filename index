@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Web Design and Architecture Portfolio by Michelle Boychuk | Main Page | A Journey
+            Captured in HTML, CSS, TEI, XML, and XSLT</title>
+        <meta name="description"
+            content=" A portfolio of one Master student's journey through the land of Web Architecture and Design. 
+            Captured in HTML, CSS, TEI, XML, and XSLT" />
+        <meta name="keywords"
+            content="web design, web architecture, portfolio, xml, TEI, CSS, HTML5" />
+        <meta charset="utf-8" />
+        <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet"
+            type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Medula+One" rel="stylesheet"
+            type="text/css" />
+        <link href="reset.css" rel="stylesheet" />
+        <link href="textstyle.css" rel="stylesheet" />
+        <link href="mystyle.css" rel="stylesheet" media="screen" />
+        <link href="printstyle.css" rel="stylesheet" media="print" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+    <body>
+        <header><center>
+                <h1>INFO 6620 Portfolio: Michelle Boychuk</h1>
+                <h3><i>Web Design and Architecture 2016</i></h3></center>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Homepage</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+        <article id="contentleft">
+            <h2>Hello! This is my Design Portfolio</h2>
+            <p>This site holds my design assignments as well as a little bit about myself. If you
+                want to check out an assignment directly, click one of the images to your right.
+                Click the 'Project' button above if you'd like to read a bit about each assignment
+                first. Reading further on this page will allow you to see into the mind of the
+                designer--me! </p>
+            <h3>My Background</h3>
+            <p>My name is Michelle Boychuk and I am working on my Master of Library and Information
+                Studies degree at Dalhousie Uniersity in Halifax, NS. I am originally from Edmonton,
+                AB with a background in English. </p>
+            <p>I am mostly interested in the intersection between technology and information and how
+                search is affected by a digital medium. I want to help people navigate this
+                information-saturated world, and hopefully invent some innovative ways to search,
+                and discover knowledge in the future. </p>
+            <p>I'd also love to train service and police dogs, or build a self sustaining farming
+                establishment. Librarianship called to me because of how varied the job prospects
+                are; this varied life-style perfectly matches my compulsive learning style.</p>
+            <h3>Quotes to Live By</h3>
+            <q>"A universally interesting person is universally interested"</q><cite>
+                (Unknown)</cite><br />
+            <q>"Read widely, argue reasonably"</q><cite>(University of Alberta English Professsor)
+            </cite>
+        </article>
+        <div id="chatelaine">
+            <br /><img style="margin:0px auto" src="imgs/profile.jpg"
+                alt="Four image collage of Michelle Boychuk (2014) with her pet snake Chatelaine" />
+            <br /><figcaption>Michelle Boychuk and Chatelaine</figcaption>
+            <p> I love animals and I currently have two snakes who keep me sane (one pictured
+              above) </p>
+        </div>
+        <div id="contentright">
+            <h3>Project Quick Links</h3>
+            <a href="projects.html"><img id="A2IMG" src="imgs/placecardA2.png"
+                    alt="Screenshot of assignment 2" /></a>
+            <a href="assignments/assignment.pdf"><img id="A3IMG" src="imgs/placecardA3.png"
+                    alt="Screenshot of assignment 3" /></a>
+            <a href="assignments/assignment.pdf">
+                <img id="A4IMG" src="imgs/placecardA4.png" alt="Screenshot of assignment 4" /></a>
+            <a href="assignments/assignment.pdf"><img id="A5IMG" src="imgs/placecardA5.png"
+                    alt="Screenshot of assignment 5" /></a>
+        </div>
+        <footer>
+            <p> © 2016 Michelle Boychuk. All rights reserved. Email: <a
+                    href="mailto:michelle.boychuk@gmail.com">michelle.boychuk@gmail.com</a>
+            </p>
+        </footer>
+    </body>
+</html>
